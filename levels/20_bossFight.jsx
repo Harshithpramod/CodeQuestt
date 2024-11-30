@@ -16,7 +16,7 @@
  * bossFight.js *
  *****************
  *
- * NO FARTHER, DR. EVAL!!!!
+ * NO FARTHER,Plyer!!!!
  * YOU WILL NOT GET OUT OF HERE ALIVE!!!!
  * IT'S TIME YOU SEE MY TRUE FORM!!!!
  * FACE MY ROBOT WRATH!!!!!
