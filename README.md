@@ -106,9 +106,3 @@ The music that appears in Untrusted, in order, is:
 - "Adversity" - [Seropard](https://soundcloud.com/seropard) (free to use)
 - "Comme Des Orages" - [Obsibilo](http://freemusicarchive.org/music/Obsibilo/) (CC-BY-NC-SA)
 - "Brazilicon Alley" - [Vernon Lenoir](http://vernonlenoir.wordpress.com/) (CC-BY-NC-SA), based on "Aquarela do Brazil" by Ary Barroso
-
-### License
-This work is dual-licensed.
-
-- Untrusted and the Untrusted soundtrack are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (CC-BY-NC-SA 3.0)</a>. In other words, you are free to use and modify Untrusted for non-commercial purposes, provided that you credit us and your work is also licensed under CC-BY-NC-SA.
-- Additionally, the Untrusted code *without the soundtrack* is licenced under a commercial license. This means that you are able to use Untrusted for commercial purposes under some conditions, provided that you do not use any of the music. Please [contact us](mailto:alex.nisnevich@gmail.com,greg.shuflin@gmail.com) for details.
