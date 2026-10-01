@@ -65,19 +65,6 @@ jsx files are like regular JavaScript files, but have some additional syntax:
 
 To add a new background music track, add an MP3 file (that you have permission to use) to the [/music](https://github.com/AlexNisnevich/untrusted/tree/master/music) and add a new entry to the `tracks` array in [sound.js](https://github.com/AlexNisnevich/untrusted/blob/master/scripts/sound.js).
 
-### Acknowledgements
-
-Untrusted is a game by [Alex Nisnevich](http://alex.nisnevich.com/) and [Greg Shuflin](https://github.com/neunenak).
-
-We'd like to thank:
-
-- [Dmitry Mazin](https://github.com/dmazin) for design assistance and for the implementation of multiline editing
-- [Jordan Arnesen](https://github.com/extrajordanary) for playtesting and design of lvl17
-- [Natasha Hull-Richter](http://nhull.com) for extensive playtesting and assistance in level design
-- Alex Bolotov, Colin Curtin, Conrad Irwin, Devin C-R, Eugene Evans, Gilbert Hsyu, Jacob Nisnevich, James Silvey, Jason Jiang, Jimmy Hack, Philip Shao, Ryan Fitzgerald, Stephen Liu, Yayoi Ukai, and Yuval Gnessin for playtesting and feedback
-- [Ondřej Žára](https://github.com/ondras) for his [rot.js](http://ondras.github.io/rot.js/) library
-- [Marijn Haverbeke](https://github.com/marijnh) for his [CodeMirror](http://codemirror.net/) library
-- [Brian Harvey](http://www.cs.berkeley.edu/~bh/) for allowing us to use his likeness in lvl19
 
 #### Soundtrack
 
